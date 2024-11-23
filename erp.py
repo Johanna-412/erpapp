@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 from fpdf import FPDF
-logo-patch: "https://1.bp.blogspot.com/-N_iuuq_lsLo/WJQbdJvyZsI/AAAAAAAABfE/rgZ1dp1Sk1AipzRpitJDnKFzvElZMViHwCLcB/s1600/erp-solutions.png
+logo-patch: "https://th.bing.com/th/id/OIP.yLFsgh0jcZfv29oUXKrbAwHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7
 st.set_page_config(page_title="Módulos del ERP", layout="wide",page_icon=logo_path)
 # Ruta del archivo de imagen (logo)
 
